@@ -3,3 +3,5 @@ hello
 Git is a distributed version control system.
 今天是12月1日，星期一
 天气晴
+明天是12月2日，星期二
+天气晴
