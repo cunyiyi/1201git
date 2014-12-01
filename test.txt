@@ -6,3 +6,4 @@ Git is a distributed version control system.
 明天是12月2日，星期二
 天气晴
 今天学习的内容：时光穿梭/修改管理
+测试远程
